@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.193
+
+### Patch Changes
+
+- [fix] scroll to elements provided via URL hash ([#2668](https://github.com/sveltejs/kit/pull/2668))
+
 ## 1.0.0-next.192
 
 ### Patch Changes
